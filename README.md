@@ -428,7 +428,9 @@ src/assets/
 
 
 ## 👨‍💻 Autor
-
+### Gabriel Escobar
+### Nicólas Chiguano 
+### Wilmer Ramos
 Proyecto basado en:
 [https://github.com/jzaldumbide/pokeapp.git](https://github.com/jzaldumbide/pokeapp.git)
 
