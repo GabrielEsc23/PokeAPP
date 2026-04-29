@@ -398,7 +398,7 @@ Colocar el logo en:
 src/assets/
 ```
 
-📸 *Espacio para captura de assets*
+
 
 ---
 
