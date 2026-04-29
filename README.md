@@ -427,7 +427,7 @@ src/assets/
 
 
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 ### Gabriel Escobar
 ### Nicólas Chiguano 
 ### Wilmer Ramos
