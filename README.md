@@ -96,7 +96,7 @@ getPokemonDetail(name: string): Observable<any> {
 
 ## 📄 2. Lista de Pokémon (`pokemon-list.page.ts`)
 
-📸 *Espacio para captura del código*
+
 
 ### Código principal
 
@@ -216,7 +216,7 @@ this.pokemonService.getPokemonDetail(pokemon.name)
 
 ## 🎨 3. Vista de lista (`pokemon-list.page.html`)
 
-📸 *Espacio para captura del código*
+
 
 ### Código
 
@@ -263,7 +263,7 @@ this.pokemonService.getPokemonDetail(pokemon.name)
 
 ## 🔀 4. Routing (`app-routing.module.ts`)
 
-📸 *Espacio para captura del código*
+
 
 ### Código
 
@@ -310,7 +310,7 @@ export class AppRoutingModule {}
 
 ## 📊 5. Vista de detalle (`pokemon-detail.page.html`)
 
-📸 *Espacio para captura del código*
+
 
 ### Código
 
