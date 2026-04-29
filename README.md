@@ -412,9 +412,7 @@ src/assets/
 
 📸 *Espacio para captura de la lista funcionando*
 
-📸 *Espacio para captura del detalle*
 
-📸 *Espacio para captura del buscador*
 
 ---
 
