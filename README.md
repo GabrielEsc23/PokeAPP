@@ -404,13 +404,17 @@ src/assets/
 
 
 
-📸 *Espacio para captura del resultado*
+![Logo de la Poke API](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/logo1.jpg)
+
+![Splash Screen](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/splash-screen.jpg)
+
 
 ---
 
 ## 📸 Resultados
 
-📸 *Espacio para captura de la lista funcionando*
+![Lista de Pokemones](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/lista.jpg)
+![Pokemon Detallado](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/pokemon-detallado.jpg)
 
 
 
