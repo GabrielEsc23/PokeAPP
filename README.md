@@ -404,7 +404,7 @@ src/assets/
 
 
 ## 🧩 Logo de la Aplicación
-![Logo de la Poke API](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/logo1.jpg)
+![Logo de la Poke API](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/logo2.png)
 
 ---
 
