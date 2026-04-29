@@ -403,27 +403,25 @@ src/assets/
 ---
 
 
-##Logo de la Aplicación
+## 🧩 Logo de la Aplicación
 ![Logo de la Poke API](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/logo1.jpg)
----
-##Splash Screen
-![Splash Screen](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/splash-screen.jpg)
 
+---
+
+## 🚀 Splash Screen
+![Splash Screen](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/splash-screen.jpg)
 
 ---
 
 ## 📸 Resultados
 
+### 📋 Lista de Pokémon
+![Lista de Pokémon](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/lista.jpg)
 
-##Lista de Pokemones
-![Lista de Pokemones](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/lista.jpg)
 ---
 
-
-##Pokemon Detallado
+### 🔍 Detalle del Pokémon
 ![Pokemon Detallado](https://github.com/GabrielEsc23/PokeAPP/raw/main/assets/pokemon-detallado.jpg)
-
-
 
 ---
 
